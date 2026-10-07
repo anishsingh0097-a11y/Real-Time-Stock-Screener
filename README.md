@@ -65,7 +65,6 @@ src/
 
 ## Built By
 Anish Kumar — BCA 
-ZeTheta Internship Project — 15-Day Sprint
 
 
 
